@@ -1,6 +1,8 @@
 # 收藏的网址：
 
 - 下载 Microsoft Edge离线版: https://www.microsoft.com/zh-cn/edge/business/download
+- 离线安装docker：https://download.docker.com/linux/static/stable/x86_64/
+- 手动下载WSL系统: https://docs.microsoft.com/en-us/windows/wsl/install-manual#download-using-powershell
 - Vagrant 下载离线box: 
   
   ```
@@ -13,4 +15,3 @@
   centos/7: 
   https://app.vagrantup.com/centos/boxes/7/versions/2004.01/providers/virtualbox.box
   ```
-- 离线安装docker：https://download.docker.com/linux/static/stable/x86_64/
