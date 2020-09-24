@@ -4,6 +4,7 @@
 - #### 离线安装docker：https://download.docker.com/linux/static/stable/x86_64/
 - #### wsl更新安装： https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 - #### 手动下载WSL系统: https://docs.microsoft.com/en-us/windows/wsl/install-manual#download-using-powershell
+- #### SQL练习： https://sqlzoo.net/wiki
 - #### Vagrant下载离线box: 
   ```
   点开对应的box的版本链接，然后在链接后方加入/providers/virtualbox.box
