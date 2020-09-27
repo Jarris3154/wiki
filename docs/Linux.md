@@ -1,5 +1,6 @@
 # Linux Terminal Command
 
+参考链接： [nohup](https://www.cnblogs.com/mandywang/p/11093032.html)
 忽略打印的输出。
   nohup ./service >service.log 2>&1 &
   nohup的日志错误
