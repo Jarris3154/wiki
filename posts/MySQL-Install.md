@@ -1,5 +1,15 @@
 [上一级](../README.md)
 
+# Windows安装
+1. 可以通过下载的exe一键安装。
+2. 可以通过下载的绿色版安装，
+    1. 解压到某个文件夹。
+    2. cd到该文件夹中，修改my.ini中的mysql安装目录和数据目录。
+    3. 运行mysqld --initialize（如已经有数据库，那么不用运行该命令）
+    4. 运行mysqld --install（运行完成后可以看到在服务中可以看到MySQL服务。）
+    5. 启动服务MySQL
+
+
 # Docker 安装Mysql 8
 
 1. 首先在[DockerHub](https://hub.docker.com)上找到mysql的镜像，我找的是这个[mysql/mysql-server](https://hub.docker.com/r/mysql/mysql-server/)

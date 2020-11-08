@@ -1,13 +1,9 @@
-# 个人博客
+# Jarris's Blog
 
 Posts:
 
-- [Docker安装Mysql 8](docs/Docker安装Mysql8.md)
-- [脚本](docs/脚本.md)
+- [安装Mysql](docs/MySQL-Install.md)
+- [常用脚本](docs/scripts.md)
 
-
-其他： 
-
-- [Notes](docs/notes.md)
 
 
